@@ -66,12 +66,24 @@ Vishal Yadav   - 2024IMT088
 
 
 
+**SCREENSHOT:**
 
 
 
+<img width="1912" height="997" alt="1" src="https://github.com/user-attachments/assets/4030e523-97b0-4041-b220-e9ccad3613ac" />
+
+<img width="1901" height="955" alt="7" src="https://github.com/user-attachments/assets/d4d7ea02-c2cd-4c85-9a8e-c3fc1743f454" />
 
 
+<img width="1893" height="922" alt="2" src="https://github.com/user-attachments/assets/d69a82b9-c6e1-492e-b4c7-83711f2de2d8" />
 
+
+<img width="1897" height="937" alt="4" src="https://github.com/user-attachments/assets/171edb32-b5d9-4e10-8336-97588db0cd45" />
+
+
+<img width="1918" height="902" alt="5" src="https://github.com/user-attachments/assets/d2b17a59-2815-4a4d-9898-276390275253" />
+
+<img width="1905" height="916" alt="6" src="https://github.com/user-attachments/assets/2e5e9f25-78dd-4929-829d-f57ed859705b" />
 
 
 
